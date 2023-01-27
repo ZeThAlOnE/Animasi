@@ -43,7 +43,7 @@ def menu():
 """)
 
    if pil =="2":
-     slep(1)
+     sleep(1)
      system("sl")
      print("""\33[5;33m
           _                 _ 
